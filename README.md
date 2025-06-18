@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-# My Awesome Local Project
-
-A brief description of my local project.
-=======
-# Normalization Activity Midterm
-
-This project is for the Normalization Activity.
->>>>>>> origin/main
+![Screenshot 2025-06-18 153200](https://github.com/user-attachments/assets/8edeef14-9798-457a-bae7-49f2cdeceb14)
+![Screenshot 2025-06-18 153320](https://github.com/user-attachments/assets/f756dc72-5762-4d32-b809-e4b4cc19bffd)
+![Screenshot 2025-06-18 153304](https://github.com/user-attachments/assets/6d1c1f83-efc0-44ee-9aa8-3dd0a8eabbf2)
+![Screenshot 2025-06-18 153253](https://github.com/user-attachments/assets/418c7253-29bb-4cde-b6a7-1b331575eb40)
+![Screenshot 2025-06-18 153231](https://github.com/user-attachments/assets/dc7905cb-d258-4f09-b592-9991370ad7b3)
